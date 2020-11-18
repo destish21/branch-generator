@@ -15,4 +15,4 @@ var planet = {
 
 planet.LogFacts()
 console.log(planet.ispopulated)
-// console.log(planet.population)
+console.log(planet.population)
